@@ -1,0 +1,53 @@
+Focus on the pressure points that waste time: encode/decode, uploading
+
+Getting good at video production requires the development of a process that works for you. Applications like 
+Blender, 
+Ffmpeg, 
+Mediainfo, 
+Mplayer, 
+Gimp, 
+Inkscape, 
+etc... provide all the necessary functionality to 
+verify files, 
+edit, 
+composite and 
+publish finalized media. 
+This session will focus on using the advanced features of the aforementioned programs to glue the whole process together. A live editing session will take place with Blender (non-linear editor) and how to chain it to the other tools to streamline the media development process. Questions are encouraged throughout this session!
+
+
+SMPTE - Society of Motion Picture & Television Engineers
+
+SMPTE timecode - A standard for labeling individual frames of video with a time code. SMPTE 12M specification.
+
+EDL - An Edit Decision List is used during the post-production process of film/video editing. The list contains an ordered list of reel and timecode data representing where each video clip can be obtained in order to conform the final cut. SMPTE 258M specification.
+
+Offline Editing - The process of editing a program at a lower resolution to save on equipment costs or to conserve hard disk space. When the edit is finished, the material can be recaptured at a higher quality, or an EDL can be generated for re-creating the edit on another system.
+Timing, storytelling, and fine-tuning your edits should be completed in this editing phase.
+
+Online Editing - Actually has very little to do with editing in the traditional sense. Online editing starts with a project interchange file, an EDL, which describes which media you need to recapture at full-resolution. 
+
+Online editing focuses on image quality, color correction, maintaining broadcast video specifications, detailed effects work, titles, audio levels, and so on. Compared to the offline editing phase, an online edit session goes very quickly (anywhere from a day to a week), and generally requires more expensive equipment.
+
+Rec 709 - ITU Rec.709 is a shortened name for the ITU-R Recommendation BT.709. It standardizes many aspects of high-definition television, including pixel count, framerate, digital representation, primary chromaticities, luma coefficients, and transfer characteristics. ITU Rec.709 was approved back in 2002.
+
+NLE - Non-Linear Editor
+
+EXR - OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications. OpenEXR was released by ILM as a BSD licensed cross platform library.
+
+DPX - Digital Picture Exchange is a file format following the ANSI/SMPTE standard (268M-2003). This format is commonly used as a digital intermediate and for visual effects work.
+
+mxf - The Material eXchange Format is an open file format, aimed at the interchange of AV material along with associated data and metadata. It establishes interoperability of content between various applications used during post production.
+
+aaf - The Advanced Authoring Format is an interchange format designed for moving projects between different software and environments during the post production process.
+
+VC-1 - SMPTE 421M video codec standard released on April 3rd 2006. Think Blu-ray/HD-DVD
+
+VC-2 - Is a subset of dirac a royalty-free video codec developed by the BBC. SMPTE approved in 2010.
+
+DNxHD - Digital Nonlinear Extensible High Definition is an 8-bit and 10-bit lossy codec designed for master quality at HD resolutions. Avid DNxHD became SMPTE VC-3.
+
+Audio & Video codec information and bit rate,
+fps, aspect ratio, audio language, channels, sample rate, subtitle information, chapter information
+Reads the majority of all audio and video containers and files.
+
+Speeding up a video is no problem. There is more than enough data to work with.
